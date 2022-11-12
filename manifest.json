@@ -9,7 +9,8 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/index.html",
+  "scope": "/PWA---Rental-Mobil-Sederhana/",
+  "start_url": "/PWA---Rental-Mobil-Sederhana/",
   "display": "standalone",
   "theme_color": "#1F3641",
   "background_color": "#ffffff",
