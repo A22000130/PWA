@@ -4,12 +4,13 @@
   "description": "Menghitung Biaya Rental Mobil dengan PWA",
   "icons": [
     {
-      "src": "images/rental_icon.png",
+      "src": "/pwa-rental-mobil-sederhana/images/rental_icon.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ],
-  "start_url": "/index.html",
+  "scope": "/pwa-rental-mobil-sederhana/",
+  "start_url": "/pwa-rental-mobil-sederhana/",
   "display": "standalone",
   "theme_color": "#1F3641",
   "background_color": "#ffffff",
