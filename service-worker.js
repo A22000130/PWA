@@ -50,7 +50,7 @@
 // })
 
 // versi dulu//
-const CACHE_NAME = 'SW-002';
+const CACHE_NAME = 'SW-003';
 const toCache = [
   '/',
   'manifest.json',
