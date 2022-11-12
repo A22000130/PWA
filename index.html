@@ -43,7 +43,15 @@
       <button onclick="window.print()">Print Hasil</button>
     </div>
   </fieldset>
-
+  
+  <script>
+    if (navigator.serviceWorker) {
+      navigator.serviceWorker.register(
+        '/pwa-rental-mobil-sedehana/service-worker.js',
+        { scope: '/pwa-rental-mobil-sederhana/' }
+      )
+    }
+  </script>
   <script src="js/rentalMobil.js"></script>
   <script src="js/register.js"></script>
  
