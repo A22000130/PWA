@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564645791385",
+    "project_id": "pwa-rental",
+    "storage_bucket": "pwa-rental.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564645791385:android:5fec3a39c410825d3eda08",
+        "android_client_info": {
+          "package_name": "pwa.rental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564645791385-gsp6351vldrbn7rf63qkb6kd3n66rnts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtiKoh9F69CyQl6keCg__BNdAAGbRgiCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564645791385-gsp6351vldrbn7rf63qkb6kd3n66rnts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
