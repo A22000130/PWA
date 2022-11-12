@@ -1,0 +1,17 @@
+{
+  "name": "Aplikasi Rental Mobil Sederhana",
+  "short_name": "Rental Mobil",
+  "description": "Menghitung Biaya Rental Mobil dengan PWA",
+  "icons": [
+    {
+      "src": "images/rental_icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#1F3641",
+  "background_color": "#ffffff",
+  "prefer_related_applications": false
+}
