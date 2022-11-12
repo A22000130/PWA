@@ -1,6 +1,6 @@
 var GHPATH = '/pwa-rental-mobil-sederhana';
 var APP_PREFIX = 'rmspwa_';
-var VERSION = 'version_002';
+var VERSION = 'version_003';
 var URLS = [
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
